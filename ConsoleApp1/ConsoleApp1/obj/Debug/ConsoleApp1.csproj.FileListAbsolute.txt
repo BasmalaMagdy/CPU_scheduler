@@ -1,0 +1,7 @@
+F:\faculty\3rdcomputer\2nd-term\OS\Projects\final1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\faculty\3rdcomputer\2nd-term\OS\Projects\final1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\faculty\3rdcomputer\2nd-term\OS\Projects\final1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\faculty\3rdcomputer\2nd-term\OS\Projects\final1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\faculty\3rdcomputer\2nd-term\OS\Projects\final1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\faculty\3rdcomputer\2nd-term\OS\Projects\final1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\faculty\3rdcomputer\2nd-term\OS\Projects\final1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
